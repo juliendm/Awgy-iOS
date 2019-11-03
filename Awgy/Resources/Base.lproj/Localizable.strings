@@ -1,0 +1,191 @@
+/* 
+  English.strings
+  Awgy
+
+  Created by Julien de Muelenaere on 12/28/15.
+  Copyright (c) 2015 Julien de Muelenaere. All rights reserved.
+*/
+
+"OOPS" = "Oops";
+"OK" = "OK";
+"CANCEL" = "Cancel";
+"CONFIRM" = "Confirm";
+"DONE" = "Done";
+"ERROR" = "An error occurred";
+"TRY_AGAIN" = "Please try again later";
+"LOG_OUT" = "Log Out";
+"BACK" = "Back";
+"NEW" = "New";
+"YOU" = "You";
+
+"AGO_%@" = "%@ ago";
+"WEEK_ABBR" = "w";
+"WEEK" = "week";
+"WEEKS" = "weeks";
+"DAY_ABBR" = "d";
+"DAY" = "day";
+"DAYS" = "days";
+"HOUR_ABBR" = "h";
+"HOUR" = "hour";
+"HOURS" = "hours";
+"MINUTE_ABBR" = "m";
+"MINUTE" = "minute";
+"MINUTES" = "minutes";
+"SECONDS_ABBR" = "s";
+"SECOND" = "second";
+"SECONDS" = "seconds";
+
+"LESS_THAN_A_MINUTE_AGO" = "Less than a minute ago";
+"YESTERDAY_AT" = "Yesterday at";
+
+"SIGNUP" = "Sign Up";
+"CODE" = "Code";
+"PHONE_NUMBER" = "Phone Number";
+
+"SEND" = "Send";
+"SENT" = "Sent";
+"SEEN_BY" = "Seen by";
+"SEEN_BY_ALL" = "Seen by All";
+"SEEN" = "Seen";
+"SENDING" = "Sending";
+"ADD_A_MESSAGE" = "Add a comment";
+
+"NO_ONE" = "No One";
+"WAITING" = "Waiting";
+"HAPPENING_NOW" = "Happening now";
+
+"PHOTO" = "photo";
+"IN_COMMON" = "in common";
+"FOR_THIS_HASHTAG" = "for this Hashtag";
+
+"BLOCKED" = "Blocked";
+
+"SAVE" = "Save";
+"SETTINGS" = "Settings";
+
+"ONLY_YOU" = "Only You";
+"IMAGE_SAVED" = "Image saved";
+
+"PRIVACY_POLICY" = "Privacy Policy";
+"TERMS_OF_USE" = "Terms Of Use";
+"VERIFICATION" = "Verification";
+"NOTIFICATIONS" = "Notifications";
+"SET_UP" = "Set Up";
+"AVAILABILITY" = "Availability";
+
+"ADD" = "Add";
+"REMOVE" = "Remove";
+"INVITE" = "Invite";
+"CONTACTS" = "Contacts";
+"FAILED_SEND" = "Failed to send the message";
+"OPTIONS" = "Options";
+"REMOVE_FRIEND" = "Remove Friend";
+"ADD_FRIEND" = "Add Friend";
+"UNBLOCK" = "Unblock";
+"BLOCK" = "Block";
+"RENAME" = "Rename";
+"SAVE_NUMBER" = "Save Number";
+"WARNING" = "Warning";
+"BLOCKED_USERS" = "Blocked Users";
+"CHANGE_PHONE_NUMBER" = "Change Phone Number";
+"DELETE_ACCOUNT" = "Delete Account";
+"VIP" = "VIP";
+"ACCOUNT" = "Account";
+"PRIVACY" = "Privacy";
+"INFO" = "Information";
+"NOT_AVAILABLE" = "Not Available";
+"ERROR_TRY_AGAIN" = "Something went wrong, please try again";
+"AVAILABLE_FROM" = "Available From";
+"AVAILBALE_TO" = "Available To";
+"SAY_NOT_AVAILABLE" = "Or say, not available";
+"INVITED" = "Invited";
+"MAXIMUM_REACHED" = "Maximum Reached";
+"INFO_MAX_REACHED_%d" = "You can invite a maximum of %d persons for now.";
+
+"ALONE" = "It's only you";
+"SPEAKING_ALONE" = "You are speaking to yourself";
+"NO_INTERNET" = "It seems you are not connected to the Internet";
+
+"NEW_AWGY" = "New Awgy";
+"NEW_MESSAGE" = "New Message";
+
+"HASHTAG" = "Hashtag";
+"HASHTAGS" = "Hashtags";
+
+"DESCRIPTION" = "Description";
+
+"VERIFY" = "Verify";
+"ACCEPT" = "Accept";
+"DELETE" = "Delete";
+
+"CONDITIONS_CHANGED" = "Conditions Have Changed";
+"VERIFY_NEW_CONDITIONS" = "Let's review the new Terms of Use and Privacy Policy";
+"REVIEW" = "Review";
+
+"ANNOUNCEMENT" = "Announcement";
+"DETAILS" = "Details";
+
+"INFO_SINGLE_NOTIFICATION" = "has been recorded, but we couldn't inform him/her because he/she isn't on Awgy yet.\n\nYou should send him/her this message:";
+"INFO_GROUP_NOTIFICATION" = "have been recorded, but we couldn't inform them because they aren't on Awgy yet.\n\nYou should send them this message:";
+"NOTIFICATION_%@_%d" = "#%@ is waiting for your picture - %d min (Awgy, on App Store and Google Play)";
+"COPY" = "Copy";
+"COPIED" = "Copied to clipboard";
+"CANT_SEND_MESSAGES" = "It seems you can't send Messages";
+"FAILED_SEND_MESSAGE" = "Failed to send Message";
+
+"AWGY_USER_%d_%@" = "%d Awg%@ in common";
+"AWGY_HASHTAG_%d_%@" = "%d Awg%@ for this Hashtag";
+
+"VERIFICATION_CODE" = "Verification Code";
+"INFO_VERIFY_IDENTITY" = "Let's verify your identity";
+"SEND_CODE" = "Send Code";
+
+"INSTRUCTIONS_NOTIFICATIONS" = "You should:\n   - Go to Settings\n   - Select Notifications\n   - Allow Notifications for Awgy";
+"GO_TO_SETTINGS" = "Go to Settings";
+"REMIND" = "Remind me later";
+
+"INFO_SIGNUP" = "Please enter your Phone Number starting with the Country Code";
+"INFO_VERIF" = "Please enter the verification code we just sent you";
+"CONDITIONS_SIGNUP" = "By signing up, you agree to our";
+"AND" = "and";
+
+"INFO_NOTIFICATIONS" = "Without Notifications, you will not know when your contacts invite you for an Awgy";
+
+"ACCESS_CAMERA" = "We need to have access to your Camera in order to take a picture";
+"ACCESS_CONTACTS" = "We need to have access to your Contact list in order to invite relatives";
+"ACCESS_ALBUMS" = "We need to have access to your Photo Albums to perform this acction";
+
+"ERROR_PHONE_NUMBER" = "Please make sure you enter an existing Phone Number";
+"ERROR_NO_CODE" = "Make sure you enter a Verification Code";
+"ERROR_REINSTALL" = "An error occurred, please try logging in again. If it still does not work, try deleting and reinstalling the app";
+"ERROR_NO_HASHTAG" = "Make sure you specify a Hashtag with a minimum of 3 characters";
+"ERROR_NO_RECIPIENTS" = "Make sure you choose at least one Recipient";
+"ERROR_EDIT_PHONE_NUMBER" = "Please edit your Phone Number first";
+
+"EMPTY_TITLE_STREAM" = "No Awgy";
+"EMPTY_MESSAGE_STREAM" = "Here will be listed the Awgies you have created or have been invited to.";
+
+"EMPTY_TITLE_ONGOING" = "No pending Awgy";
+"EMPTY_MESSAGE_ONGOING" = "When someone sends you an Awgy or when you create one, it is listed here provided that the time limit has not elapsed.";
+
+"EMPTY_TITLE_HASHTAGS" = "No Hashtag yet";
+"EMPTY_MESSAGE_HASHTAGS" = "Here will be listed the Hashtags for the Awgies you have created or have been invited to, ordered by popularity.";
+
+"EMPTY_TITLE_HASHTAG" = "No Awgy";
+"EMPTY_MESSAGE_HASHTAG" = "Here will be listed the Awgies you have for this Hashtag.";
+
+"EMPTY_TITLE_USER" = "No Awgy";
+"EMPTY_MESSAGE_USER" = "Here will be listed the Awgies you have in common.";
+
+"EMPTY_TITLE_USERS" = "No One yet";
+"EMPTY_MESSAGE_USERS" = "Here will be listed the people you know who are using Awgy, ordered by popularity. You should let your friends know about Awgy by creating one.";
+
+"EMPTY_TITLE_BLOCKED" = "No One here";
+"EMPTY_MESSAGE_BLOCKED" = "Block when encountering annoying people.";
+
+"PRESS_CAMERA" = "Press the camera for a new Awgy";
+
+"NO_ONE_ON_APP" = "No one in your Contact list is using Awgy yet. Create a new Awgy to let them know";
+"WRITE_MESSAGE_YOURSELF" = "It seems you can't send Text Messages. Write it yourself, and tell them to check www.awgy.com";
+"WARNING_DELETE_ACCOUNT" = "Are you sure you want to delete the account associated with your Phone Number ? All your data will be deleted";
+
